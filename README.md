@@ -1,3 +1,3 @@
 # hello-world
 test github
-Yes，I am studying！
+OK, I am studying the GitHub
